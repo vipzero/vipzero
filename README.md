@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![vipzero](https://github-profile-trophy.vercel.app/?username=vipzero&theme=onedark)
 <!--
 **vipzero/vipzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
