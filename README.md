@@ -4,7 +4,7 @@ GitHub に来ますた
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=vipzero&title=Commit,Stars" /> -->
 <div>
 
-[vipzero/chch](/vipzero/chch) をもっと評価してくれ
+[vipzero/chch](https://github.com/vipzero/chch) をもっと評価してくれ
 <!--
 
 -->
